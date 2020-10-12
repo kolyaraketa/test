@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient x1="80%" y1="20%" x2="20%" y2="80%" id="whitecoinGradient">
+			<stop stop-color="#B858F7" />
+			<stop stop-color="#6649E3" offset="100%" />
+		</linearGradient>
+	</defs>
+	<path fill="url(#whitecoinGradient)" class="fill" fill-rule="evenodd" d="M20,7 C27.18,7 33,12.8202983 33,20 C33,27.18 27.18,33 20,33 C12.8202983,33 7,27.18 7,20 C7,12.8202983 12.8202983,7 20,7 Z M20,9 C13.9248678,9 9,13.9248678 9,20 C9,26.0751322 13.9248678,31 20,31 C26.0751322,31 31,26.0751322 31,20 C31,13.9248678 26.0751322,9 20,9 Z M16,15.5 L17.5,22 L19,15.5 L21,15.5 L22.5,22 L24,15.5 L27,15.5 L26.249,18 L29,18 L29.3,19.5 L25.799,19.5 L25.499,20.5 L29.3,20.5 L29,22 L25.049,22 L24,25.5 L21.5,25.5 L20,19.5 L18,25.5 L16,25.5 L14.949,22 L11,22 L10.7,20.5 L14.499,20.5 L14.199,19.5 L10.7,19.5 L11,18 L13.749,18 L13,15.5 L16,15.5 Z" />
+</svg>

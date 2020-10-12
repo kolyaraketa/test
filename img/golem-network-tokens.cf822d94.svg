@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<circle fill="none" stroke="#001D57" stroke-width="2" cx="20.5" cy="28" r="5" class="outline outline-black" />
+	<circle fill="none" stroke="#001D57" stroke-width="2" cx="20.5" cy="13" r="5" class="outline outline-black" />
+	<path d="M20.5,18 L20.5,23" stroke="#001D57" stroke-width="2" class="outline outline-black" />
+	<path d="M24,9 L27.5,5.5" stroke="#001D57" stroke-width="2" class="outline outline-black" />
+
+	<g id="coin/gnt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+	</g>
+</svg>

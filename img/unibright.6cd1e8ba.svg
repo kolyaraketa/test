@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="unibrightGradient">
+            <stop offset="0" stop-color="#e71d73"/>
+            <stop offset="0.3" stop-color="#2d2e83"/>
+            <stop offset="0.64" stop-color="#00a19a"/>
+            <stop offset="0.9" stop-color="#95c11f"/>
+            <stop offset="1" stop-color="#fcea10"/>
+        </linearGradient>
+<linearGradient xmlns="http://www.w3.org/2000/svg" id="a" y1="423.83" x2="423.83" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#e71d73"/>
+    <stop offset="0.3" stop-color="#2d2e83"/>
+    <stop offset="0.64" stop-color="#00a19a"/>
+    <stop offset="0.9" stop-color="#95c11f"/>
+    <stop offset="1" stop-color="#fcea10"/></linearGradient>
+    </defs>
+    <path fill="url(#unibrightGradient)" class="fill" fi_ll-rule="nonzero" d="M7,7 L33,7 L33,33 L7,33 L7,7 Z M13,14 L13,27 L15,29 L20,29 L22,27 L26,27 L28,25 L28,20.5 L27,19.5 L28,18.5 L28,14 L26,12 L19,12 L19,26 L16,26 L16,14 L13,14 Z M22,15 L25,15 L25,18 L22,18 L22,15 Z M22,21 L25,21 L25,24 L22,24 L22,21 Z" />
+</svg>

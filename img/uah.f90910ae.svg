@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path fill="#4A90E2" class="fill" d="M33,20 C33,13 27,7 20,7 C13,7 7,13 7,20 C7,20 11.33,23.66 20,31 C28.66,23.66 33,20 33,20 Z"/>
+	<path fill="#DDCC00" class="fill" d="M33,20 C33,27 27,33 20,33 C13,33 7,27 7,20 C15,27 25,14.5 33,20 Z"/>
+	<path stroke="white" fill="none" stroke-width="2" class="outline outline-bg" d="M16,13 C18,13 19.66,13 21,13 C23,13 24.0113192,14 24,16 C23.98,19 16,21 16,24 C16,26 17,27 19,27 C20.33,27 22,27 24,27 M15,20 L24.98,20"/>
+</svg>

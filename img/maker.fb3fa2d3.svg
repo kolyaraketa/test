@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="coin/mkr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <polyline id="l" stroke="#00C09A" stroke-width="2" points="9 28 9 12 18 19.5 18 28"></polyline>
+        <polyline id="r" stroke="#4F6A7B" stroke-width="2" points="31 28 31 12 22 19.5 22 28"></polyline>
+    </g>
+</svg>

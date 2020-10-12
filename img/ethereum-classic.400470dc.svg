@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>coin/etc</title>
+    <desc>Created with Sketch.</desc>
+    <g id="coin/etc" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11,21 L20,26 L19.9975376,34 L11,21 Z M11,20 L20,16 L20,21 L11,20 Z M11,19 L20,6 L20,14 L11,19 Z" id="left-2" fill="#3AB83A" fill-rule="nonzero"></path>
+        <path d="M20,26 L29,21 L20,34 L20,26 Z M20,16 L29,20 L20,21 L11,20 L20,24 L20,16 Z M20,14 L20,6 L29,19 L20,14 Z" id="right-2" fill="#0B8311" fill-rule="nonzero"></path>
+        <polygon id="shadow" fill="#146714" points="29 20 20 24 20 21"></polygon>
+    </g>
+</svg>

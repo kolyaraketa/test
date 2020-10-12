@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="elastos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="D2" fill="#0F2530" fill-rule="nonzero" points="13 20 6 24 20 32 27 28 27 20 20 24"></polygon>
+        <polygon id="L2" fill="#2A3C57" fill-rule="nonzero" points="27 20 34 24 20 32 20 24 13 20 13 28 20 24 27 28"></polygon>
+        <polygon id="D1" fill="#0F2530" fill-rule="nonzero" points="13 9 6 13 20 21 27 17 27 9 20 13"></polygon>
+        <polygon id="L1" fill="#2A3C57" fill-rule="nonzero" points="27 9 34 13 20 21 20 13 13 9 13 17 20 13 27 17"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>coin/ven</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#BB57FF" offset="0%"></stop>
+            <stop stop-color="#00AEFC" offset="45%"></stop>
+            <stop stop-color="#00BDE0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M9.59033629,9 L12.381966,9 C12.7607381,9 13.1070012,9.21400238 13.2763932,9.5527864 L20.8372447,24.6744893 C21.1583307,25.3166614 21.9392056,25.576953 22.5813777,25.255867 C22.8329633,25.1300742 23.0369625,24.9260749 23.1627553,24.6744893 L30.7236068,9.5527864 C30.8929988,9.21400238 31.2392619,9 31.618034,9 L32,9 C32.3472754,9 32.6287978,9.28152238 32.6287978,9.62879783 C32.6287978,9.72312368 32.6075764,9.81624102 32.5667056,9.90125242 L22.7531311,30.3134874 C22.1548763,31.5578573 20.6611338,32.0816371 19.4167639,31.4833824 C18.9053234,31.2374975 18.4927538,30.824928 18.2468689,30.3134874 L8.68908386,10.4332944 C8.44978195,9.93554647 8.65929388,9.33804948 9.15704185,9.09874758 C9.29223858,9.03374915 9.44032646,9 9.59033629,9 Z" id="v"></path>
+    </defs>
+    <g id="coin/ven" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-3" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <g id="Path-6">
+            <use fill="#00B2FE" xlink:href="#v"></use>
+            <use fill="url(#linearGradient-1)" xlink:href="#v"></use>
+        </g>
+        <polygon id="hilite" fill="white" opacity="0.1" mask="url(#mask-3)" points="8 9 13 9 18.5 32"></polygon>
+        <polygon id="hilite2" fill="white" opacity="0.1" mask="url(#mask-3)" points="13 9 8 9 21 25"></polygon>
+    </g>
+</svg>

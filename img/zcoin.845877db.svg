@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="zcoin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9,23.5 C9,15.8333333 9,11.6666667 9,11 C9,10 10,9 11,9 C12,9 27.5,9 29,9 C30.5,9 31.5,11 30,12.5 C29,13.5 23.8333333,18.6666667 14.5,28 L28,28 L28,24.5 L23,24.5 L31,16.5 C31,24.1666667 31,28.3333333 31,29 C31,30 30,31 29,31 C28,31 13,31 11,31 C9,31 9,28.5 10,27.5 C10.6666667,26.8333333 15.8333333,21.6666667 25.5,12 L12,12 L12,15.5 L17,15.5 L9,23.5 Z" id="Z-bigger" fill="#3FAD54" fill-rule="nonzero"></path>
+    </g>
+</svg>

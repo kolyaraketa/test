@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path class="fill fill-black" fill="#000000" opacity=".6" d="M16,18 L20,22 L20,30 L16,30 L16,18 Z M32,18 L32,30 L28,30 L28,18 L32,18 Z M12,10 L12,22 L8,22 L8,10 L12,10 Z M24,10 L24,22 L20,18 L20,10 L24,10 Z"/>
+	<polygon class="fill" fill="#3CC68A" points="16 26 12 22 12 10 24 22 24 14 28 18 28 30 16 18"/>
+	<path class="fill fill-black" fill="black" d="M32,18 L28,18 L20,10 L24,10 L32,18 Z M20,30 L16,30 L8,22 L12,22 L20,30 Z" />
+</svg>

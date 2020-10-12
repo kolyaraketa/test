@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="kunaGradient">
+			<stop stop-color="#47D3FF" />
+			<stop stop-color="#2195EA" offset="100%" />
+		</linearGradient>
+	</defs>
+	<path fill="#312A7D" class="fill muted-opacity" d="M26.034,32 C28.4255349,32 29.87,29.37 28.5,27.5 L23.3,20.5034277 C22.94,20.016 22.9471533,19.37 23.306,18.88208 L13.5,32 C21.1650286,32 25.34,32 26.034,32 Z" />
+	<path fill="url(#kunaGradient) #2195EA" class="fill" d="M11,29 C11,31 12,32 13.5,32 C13.5,32 28.5,12 28.5,12 C29.9127394,10.12857 28.4421399,8 26.034,8 L14,8 C12,8 11,9 11,11 L11,29 Z" />
+</svg>

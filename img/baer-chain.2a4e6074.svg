@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient x1="48.5212054%" y1="20%" x2="50%" y2="80%" id="baerGradient">
+			<stop stop-color="#23CFFF" />
+			<stop stop-color="#03519B" offset="100%" />
+		</linearGradient>
+	</defs>
+	<path fill="url(#baerGradient)" fill-rule="nonzero" class="fill" d="M20,34 C27.73,34 34,27.73 34,20 C34,12.27 27.73,6 20,6 C12.27,6 6,12.27 6,20 C6,27.73 12.27,34 20,34 Z M30.5,14 L30.5,26.5 L28,28 L28,23.5 L23,26.5 L23,31 L20.5,32.5 L20.5,20 L30.5,14 Z M9.5,14 L19.5,20 L19.5,32.5 L9.5,26.5 L9.5,14 Z M28,18 L23,21 L23,24 L28,21 L28,18 Z M12,18 L17,21 L17,23.5 L12,20.5 L12,18 Z M17,28.5 L12,25.5 L12,23 L17,26 L17,28.5 Z M20,19.5 L10,13.5 L20,7.5 L30,13.5 L27.5,15 L20,10.5 L15,13.5 L22.5,18 L20,19.5 Z" />
+</svg>

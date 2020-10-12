@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="coin/rep" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <polygon stroke="#553580" points="21 5 35 27 21 36 7 27"></polygon>
+        <path d="M21,5 C21,12 21,15.6666667 21,16 C21,16.5 20.5,17 20,17 C17.4947719,17 15.5,19.5 15.5,22" stroke="#553580"></path>
+        <path d="M21,36 C21,31.6666667 21,29.3333333 21,29 C21,28.5 21.5065896,28.1624063 22,28 C23.5190614,27.5 25,26.5 25.5,25" stroke="#553580"></path>
+        <path d="M23,17.5 C25,18 26.5,20 26.5,22 C26.5,23 27,23.5 28,24 C28.6666667,24.3333333 31,25.3333333 35,27" stroke="#553580"></path>
+        <path d="M19,27.5 C17.5,27 16.4999785,25.4999785 16,25 C15,24 13.5,24.5 13.5,24.5 C13.5,24.5 11.3333333,25.3333333 7,27" stroke="#553580"></path>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="aelf" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="O" fill="#2B5EBA" fill-rule="nonzero" cx="27" cy="20" r="5"></circle>
+        <circle id="o" fill="#2B5EBA" fill-rule="nonzero" cx="20.5" cy="10.5" r="2.5"></circle>
+        <path d="M20,16 C20.8284271,16 21.5,16.6715729 21.5,17.5 C21.5,18.3284271 20.8284271,19 20,19 C18.5,19 19.0276403,17 17,16.5 C14.9723597,16 14,18 11.5,18 C9.56700338,18 8,16.4329966 8,14.5 C8,12.5670034 9.56700338,11 11.5,11 C15.5,11 15.5,15.5 17.5,16 C18.7055141,16.3013785 19.5,16 20,16 Z" id="8" fill="#2B5EBA" fill-rule="nonzero"></path>
+        <path d="M20,26 C20.8284271,26 21.5,26.6715729 21.5,27.5 C21.5,28.3284271 20.8284271,29 20,29 C18.5,29 19.0276403,27 17,26.5 C14.9723597,26 14,28 11.5,28 C9.56700338,28 8,26.4329966 8,24.5 C8,22.5670034 9.56700338,21 11.5,21 C15.5,21 15.5,25.5 17.5,26 C18.7055141,26.3013785 19.5,26 20,26 Z" id="8" fill="#2B5EBA" fill-rule="nonzero" transform="translate(14.750000, 25.000000) scale(1, -1) translate(-14.750000, -25.000000) "></path>
+        <circle id="o" fill="#2B5EBA" fill-rule="nonzero" cx="20.5" cy="29.5" r="2.5"></circle>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>coin/bat</title>
+    <desc>Created with Sketch.</desc>
+    <g id="coin/bat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="adv" fill="#AD0065" points="20 7 20 26 25 26 33 31"></polygon>
+        <polygon id="user" fill="#FF3B00" points="20 7 20 26 15 26 7 31"></polygon>
+        <polygon id="white" fill="#FFFFFF" points="15 26 20 17 25 26"></polygon>
+        <polygon id="pub" fill="#6F2496" points="7 31 15 26 25 26 33 31"></polygon>
+    </g>
+</svg>

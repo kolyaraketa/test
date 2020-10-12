@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path class="fill fill-black" d="M23.956082,26.9549622 L26.8528806,29.8520758 C24.909973,31.2060507 22.5477049,32 20,32 C17.452729,32 15.0908316,31.2063211 13.1481121,29.8527675 L16.0449218,26.9555343 C17.2114073,27.6202549 18.5613565,28 20,28 C21.4390562,28 22.7893672,27.620037 23.956082,26.9549622 Z M10.1479242,13.1471194 L13.0450378,16.043918 C12.379963,17.2106328 12,18.5609438 12,20 C12,21.4390562 12.379963,22.7893672 13.0450378,23.956082 L10.148616,26.8538732 C8.79421978,24.9107776 8,22.5481388 8,20 C8,17.4522951 8.79394934,15.090027 10.1479242,13.1471194 Z M29.8527675,13.1481121 C31.2063211,15.0908316 32,17.452729 32,20 C32,22.5477049 31.2060507,24.909973 29.8520758,26.8528806 L26.9549622,23.956082 C27.620037,22.7893672 28,21.4390562 28,20 C28,18.5613565 27.6202549,17.2114073 26.9555343,16.0449218 Z M20,8 C22.5481388,8 24.9107776,8.79421978 26.8538732,10.148616 L23.956082,13.0450378 C22.7893672,12.379963 21.4390562,12 20,12 C18.5609438,12 17.2106328,12.379963 16.043918,13.0450378 L13.1471194,10.1479242 C15.090027,8.79394934 17.4522951,8 20,8 Z" />
+	<circle class="fill fill-black" cx="10" cy="10" r="2" />
+	<circle class="fill fill-black" cx="30" cy="10" r="2" />
+	<circle class="fill fill-black" cx="30" cy="30" r="2" />
+	<circle class="fill fill-black" cx="10" cy="30" r="2" />
+	<circle class="fill fill-black" cx="20" cy="20" r="1" />
+	<circle class="fill fill-black" cx="23" cy="17" r="1" />
+	<circle class="fill fill-black" cx="23" cy="23" r="1" />
+	<circle class="fill fill-black" cx="17" cy="23" r="1" />
+	<circle class="fill fill-black" cx="17" cy="17" r="1" />
+	<circle class="fill fill-black" cx="14" cy="14" r="1" />
+	<circle class="fill fill-black" cx="26" cy="14" r="1" />
+	<circle class="fill fill-black" cx="26" cy="26" r="1" />
+	<circle class="fill fill-black" cx="14" cy="26" r="1" />
+	<circle class="fill fill-black" cx="18.5" cy="18.5" r="1" />
+	<circle class="fill fill-black" cx="15.5" cy="15.5" r="1" />
+	<circle class="fill fill-black" cx="12.5" cy="12.5" r="1" />
+	<circle class="fill fill-black" cx="27.5" cy="12.5" r="1" />
+	<circle class="fill fill-black" cx="27.5" cy="27.5" r="1" />
+	<circle class="fill fill-black" cx="12.5" cy="27.5" r="1" />
+	<circle class="fill fill-black" cx="21.5" cy="18.5" r="1" />
+	<circle class="fill fill-black" cx="18.5" cy="21.5" r="1" />
+	<circle class="fill fill-black" cx="15.5" cy="24.5" r="1" />
+	<circle class="fill fill-black" cx="24.5" cy="24.5" r="1" />
+	<circle class="fill fill-black" cx="24.5" cy="15.5" r="1" />
+	<circle class="fill fill-black" cx="21.5" cy="21.5" r="1" />
+</svg>

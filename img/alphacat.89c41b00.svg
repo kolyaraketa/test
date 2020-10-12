@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="alphacat-gradient">
+			<stop stop-color="#D74142" />
+			<stop stop-color="#F49A79" offset="100%" />
+		</linearGradient>
+	</defs>
+	<polygon stroke="url(#alphacat-gradient)" fill="none" stroke-linejoin="round" stroke-width="2" class="outline" points="24 22 8 27.5 11 8" />
+	<polygon stroke="url(#alphacat-gradient)" fill="none" stroke-linejoin="round" stroke-width="2" class="outline" points="16 22 32 27.5 29 8" />
+</svg>

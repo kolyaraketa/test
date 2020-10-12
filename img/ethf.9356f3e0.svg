@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="ex/ethfinex" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon fill="#212433" points="12.5 20.5 20 10 27.5 20.5 22.5 30 17.5 30" class="fill" />
+        <polygon fill="#BDC1D7" points="26.5 16 30 11 36 20 25 30 24 30 30 20.5" class="fill" />
+        <polygon fill="#BDC1D7" points="13.5 16 10 11 4 20 15 30 16 30 10 20.5" class="fill" />
+    </g>
+</svg>

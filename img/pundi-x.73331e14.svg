@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>coin/npxs</title>
+    <desc>Created with Sketch.</desc>
+    <g id="coin/npxs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#1E1E1E" cx="20" cy="20" r="13"></circle>
+        <path d="M18.5,20 L20,18.5 L21.5,20 L20,21.5 L18.5,20 Z M12.5,26 L17.5,21 L19,22.5 L14,27.5 L12.5,26 Z M21,22.5 L22.5,21 L27.5,26 L26,27.5 L21,22.5 Z M21,17.5 L26,12.5 L27.5,14 L22.5,19 L21,17.5 Z M12.5,14 L14,12.5 L19,17.5 L17.5,19 L12.5,14 Z" id="X" fill="#FAD40D"></path>
+    </g>
+</svg>

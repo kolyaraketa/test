@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="dgx" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="ETH" fill="#C2A059" points="29 26 21 34 21 18"></polygon>
+        <polygon id="ETH-2" fill="#E3C88E" points="21 34 13 26 21 18"></polygon>
+        <polygon id="ETH-3" fill="#243961" points="21 16 12 25 7 20 21 6"></polygon>
+        <polygon id="ETH-4" fill="#131F35" points="35 20 30 25 21 16 21 6"></polygon>
+    </g>
+</svg>

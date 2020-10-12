@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<polygon class="fill" fill="#F9B21D" points="20 7 33 20 20 33"/>
+	<polygon class="fill" fill="#FFBC0A" points="20 7 20 33 33 20 20 24 7 20"/>
+	<polygon class="fill" fill="#FFFFFF" points="20 10 29 19 23 19 20 16 17 19 11 19"/>
+	<polygon class="fill" fill="#F3D9AC" points="20 10 29 19 23 19 20 16"/>
+	<polygon class="fill" fill="#FFCD00" points="20 33 7 20 20 24"/>
+</svg>

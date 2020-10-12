@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="bbit1">
+			<stop stop-color="#FFB01A" stop-opacity="0.2" offset="0%"/>
+			<stop stop-color="#FFB01A" offset="100%"/>
+		</linearGradient>
+		<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="bbit2">
+			<stop stop-color="#FFB01A" stop-opacity="0.2" offset="0%"/>
+			<stop stop-color="#FFB01A" offset="100%"/>
+		</linearGradient>
+	</defs>
+	<g id="ByBit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<circle class="fill muted-opacity" fill="url(#bbit1)" cx="20" cy="15" r="10" />
+		<circle class="fill muted-opacity" fill="url(#bbit2)" cx="20" cy="25" r="10" />
+		<path fill="#FFB01A" class="fill" d="M20,15 C23.7,15 26.93,17.01 28.66,20 C26.93,22.99 23.7,25 20,25 C16.3,25 13.07,22.99 11.34,20 C13.07,17.01 16.3,15 20,15 Z" />
+	</g>
+</svg>

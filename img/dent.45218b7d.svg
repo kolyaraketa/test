@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<symbol id="dent1">
+		<path d="M18.5,20 C18.5,20 17,19 17,17.5 L17,9.5 C17,7.5 18.5,6 20.5,6 C22.5,6 24,7.5 24,9.5 L24,13 L22.5,14 L22.5,9.5 C22.5,8.5 21.5,7.5 20.5,7.5 C19.5,7.5 18.6516854,8.5 18.6516854,9.5 L18.5,20 Z M22.5,20 C22.5,20 24,21 24,22.5 L24,30.5 C24,32.5 22.5,34 20.5,34 C18.5,34 17,32.5 17,30.5 L17,27 L18.5,26 L18.5,30.5 C18.5,31.5 19.5,32.5 20.5,32.5 C21.5,32.5 22.3483146,31.5 22.3483146,30.5 L22.5,20 Z" />	
+	</symbol>
+	<g id="dent" stroke="none" stroke-width="1" fill-rule="evenodd" fill="#FA2922">
+		<use xlink:href="#dent1" class="svg-logo"/>
+		<use xlink:href="#dent1" transform="translate(20.5, 20) rotate(-240) translate(-20.5, -20) "/>
+		<use xlink:href="#dent1" transform="translate(20.5, 20) rotate(-300) translate(-20.5, -20) "/>
+	</g>
+</svg>

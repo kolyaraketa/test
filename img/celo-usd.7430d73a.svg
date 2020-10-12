@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<circle class="outline" stroke="#35D07F" fill="none" stroke-width="3" cx="17" cy="23" r="9.5" />
+	<circle class="outline" stroke="#35D07F" fill="none" stroke-width="3" cx="23" cy="17" r="9.5" />
+	<path fill="#259e5f" class="fill" d="M28,23.25 C27.97,24.64 27.68,25.96 27.18,27.18 C25.96,27.68 24.64,27.97 23.25,28 C23.99,27.07 24.54,25.99 24.8,24.8 C25.93,24.54 26.98,24.03 27.87,23.34 Z M15.2,15.2 L15.07,15.23 C13.93,15.52 12.89,16.04 12,16.75 L12,17 C12,15.52 12.29,14.11 12.82,12.82 C14.11,12.29 15.52,12 17,12 L16.75,12 C16.14,12.93 15.48,14.01 15.2,15.2 Z" />
+</svg>

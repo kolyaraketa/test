@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="coinbase-gradient">
+			<stop stop-color="#2B89C9"/>
+			<stop stop-color="#1C5AA5" offset="100%" />
+		</linearGradient>
+	</defs>
+	<rect fill="#1C5AA5" class="fill" x="8" y="18" width="24" height="14" rx="3" />
+	<rect fill="url(#coinbase-gradient) #2B89C9" class="fill" x="8" y="8" width="24" height="22" rx="3" />
+	<polygon fill="#1C5AA5" class="fill" points="21 32 16 25 16.5 15.5 26.034 15 32 22 32 30 30 32" />
+	<path fill="white" class="fill-muted-bg" d="M25.912705,15.0134835 L24.0593,17.42291 C23.3255505,16.5527599 22.2273272,16 21,16 C18.8,16 17,17.8 17,20 C17,22.209139 18.8,24 21,24 C22.2273272,24 23.3255505,23.4472401 24.0593,22.57709 L25.912705,24.98 C24.65,26.2316423 22.9142244,27 21,27 C17.134,27 14,23.8659932 14,20 C14,16.134 17.134,13 21,13 C22.9142244,13 24.65,13.7683577 25.912705,15.0134835 Z" />
+</svg>

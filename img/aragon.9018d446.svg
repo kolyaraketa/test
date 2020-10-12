@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="aragon-gradient">
+			<stop stop-color="#2CB3E1" />
+			<stop stop-color="#2CF4E1" offset="100%" />
+		</linearGradient>
+	</defs>
+	<path fill="url(#aragon-gradient)" class="fill" d="M5.5,15 C9.83,11 14.66,8.33 20,7 C25.33,8.33 30.16,11 34.5,15 C32.83,25 28,31.66 20,35 C12,31.66 7.16,25 5.5,15 Z" />
+	<ellipse fill="url(#aragon-gradient)" class="fill" transform="translate(20.5, 18.5) rotate(-180) translate(-20.5, -18.5) " cx="20.5" cy="18.5" rx="7.5" ry="5.5" />
+	<path fill="black" class="fill" d="M7,15.5 C11,12.16 15.33,9.83 20,8.5 C24.66,9.83 29,12.16 33,15.5 C31.66,21.16 30,25 28,27 C25.5,27 24.5,25.5 24.5,24 C24.5,21 28.5,20.5 27.5,22.9 C30.5,22.5 31,18 27,16 C27,16 27,15.66 27,15 C23,13 19.66,12.16 17,12.5 C17,12.5 18,13 18,14 C11.9589909,14 9,19 9.5,23.5 C8.728159,21.936833 7.89482567,19.2701663 7,15.5 Z M26.5,16 C25.5,15.66 25,15.83 25,16.5 L22.5,15 C24.5,15 25.83,15.33 26.5,16 Z" />
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="krw" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle fill="#CD2E3A" cx="20" cy="20" r="13"></circle>
+        <path d="M15.6,17 L18.4,17 L19,14 L22,14 L22.5768307,17 L25.364945,17 L25.9830203,14 L29,14 L28.3037739,17 L30,17 L30,19 L27.8396232,19 L25.9830203,27 L22,27 L20.5,20 L19,27 L15,27 L13.1538462,19 L11,19 L11,17 L12.6923077,17 L12,14 L15,14 L15.6,17 Z M16,19 L17,24 L18,19 L16,19 Z M22.9613846,19 L23.9227691,24 L24.9528947,19 L22.9613846,19 Z" fill="white"></path>
+    </g>
+</svg>

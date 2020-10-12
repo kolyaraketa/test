@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="revain" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="4" fill="#671946" points="29 33 29 27.002 17 19 17 25.024"></polygon>
+        <polygon id="2" fill="#671946" points="27.9887927 18.998 27.9887927 13 15 6 10 9"></polygon>
+        <polygon id="3" fill="#0F1D42" points="17 25.022 28 18.998 28 13 17 18.998"></polygon>
+        <polygon id="1" fill="#0F1D42" points="10 33 15 30.034 15 6 10 9"></polygon>
+    </g>
+</svg>

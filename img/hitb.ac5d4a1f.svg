@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" fill="none" fill-rule="evenodd">
+        <polygon fill="#17BCEA" points="15 11 23.5 11.5 21 16 15 16 5 17" class="fill" />
+        <polygon fill="#5BCFF6" points="15 16 23.5 11.5 15 11" class="fill" />
+        <polygon fill="#5BCFF6" points="27 19 31.5 25.5 30 19" class="fill" />
+        <polygon fill="#009FE8" points="15 16 17 22 12 22" class="fill" />
+        <polygon fill="#00B1E9" points="32.5 8 29 11.5 34.5 8.5" class="fill" />
+        <polygon fill="#00B1E9" points="5 17 12 22 15 16" class="fill" />
+        <polygon fill="#5BCFF6" points="21 16 27 14 27 17.5 30.5 19 27 14 32.5 8 34.5 8.5 35 4.5 32.5 8 27 8 24 10" class="fill" />
+        <polygon fill="#17BCEA" points="27 14 27 8 24 10" class="fill" />
+        <polygon fill="#17BCEA" points="31.5 25.5 27 17.5 29.5 26" class="fill" />
+        <polygon fill="#00A3D0" points="27 14 27 17.5 29.5 26 27 29 21 16" class="fill" />
+        <polygon fill="#006A91" points="27 29 21 16 21 23" class="fill" />
+        <polygon fill="#006A91" points="27 29 29.5 26 31.5 26.5" class="fill" />
+        <polygon fill="#008FC3" points="17 22 21 16 27 29 27 17.5 21 16 15 16" class="fill" />
+        <polygon fill="#0077AC" points="18 33 17 22 21 23 21 16 17 22 12 22" class="fill" />
+        <polygon fill="#005575" points="18 33 21 23 17 22" class="fill" />
+    </g>
+</svg>

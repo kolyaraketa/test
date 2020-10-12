@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g fill="#02B7C8">
+		<polygon opacity="0.08" points="22.5 15.5 20.5 9 27.5 7 29.5 13.5" />
+		<polygon opacity="0.16" points="24 17.5 26 10.5 33 12.5 31 19.5" />
+		<polygon opacity="0.24" points="30 25 25 20 30 15 35 20" />
+		<polygon opacity="0.32" points="26 29.5 24 23 31 21 33 27.5" />
+		<polygon opacity="0.4" points="20.5 31 22.5 24 29.5 26 27.5 33" />
+		<polygon opacity="0.48" points="20 35 15 30 20 25 25 30" />
+		<polygon opacity="0.56" points="12.5 33 10.5 26.5 17.5 24.5 19.5 31" />
+		<polygon opacity="0.64" points="7 27.5 9 20.5 16 22.5 14 29.5" />
+		<polygon opacity="0.72" points="10 25 5 20 10 15 15 20" />
+		<polygon opacity="0.8" points="9 19 7 12.5 14 10.5 16 17" />
+		<polygon opacity="0.88" points="10.5 14 12.5 7 19.5 9 17.5 16" />
+		<polygon opacity="0.96" points="20 15 15 10 20 5 25 10" />
+	</g>
+</svg>

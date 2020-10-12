@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>aidcoin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1ABC9C" offset="0%"></stop>
+            <stop stop-color="#2C3E50" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="aidcoin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20,34 C27.7319865,34 34,27.7319865 34,20 C34,12.2680135 27.7319865,6 20,6 C12.2680135,6 6,12.2680135 6,20 C6,27.7319865 12.2680135,34 20,34 Z M11.5,27.5 L19.5,10 L20.5,10 L28.5,27.5 L24.5,27.5 L20,17 L15.5,27.5 L11.5,27.5 Z" id="Oval-2" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

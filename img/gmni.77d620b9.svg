@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="gmni" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8,24 C15.721148,24 21.0544813,24 24,24 C28.418278,24 32,20.418278 32,16 C32,11.581722 28.418278,8 24,8 C19.581722,8 16,11.581722 16,16 C16,18.9455187 16,21.6121853 16,24" id="2" stroke="#00DCFA" stroke-width="2" class="outline" />
+        <path d="M8,32 C15.721148,32 21.0544813,32 24,32 C28.418278,32 32,28.418278 32,24 C32,19.581722 28.418278,16 24,16 C19.581722,16 16,19.581722 16,24 C16,26.9455187 16,29.6121853 16,32" id="1" stroke="#00DCFA" stroke-width="2" transform="translate(20.000000, 24.000000) rotate(180.000000) translate(-20.000000, -24.000000) " class="outline" />
+    </g>
+</svg>

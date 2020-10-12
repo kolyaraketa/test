@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="true" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <path d="M8,19 L13,10 L20,14 L27,10 L32,19 L20,31 L8,19 Z M13,17.5 L13,10 L20,17.5 L27,10 L27,17.5 L20,31 L13,17.5 Z M8,19 L13,17.5 L27,17.5 L32,19 M20,14 C20,14 20,20 20,31" id="T" stroke="#0070BA"></path>
+    </g>
+</svg>

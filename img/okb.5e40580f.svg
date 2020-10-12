@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<circle fill="#005CF5" class="fill" cx="13" cy="20" r="6" />
+	<circle fill="#0274F6" class="fill" cx="20" cy="27" r="6" />
+	<circle fill="#4195F8" class="fill" cx="27" cy="20" r="6" />
+	<circle fill="#79BEF8" class="fill" cx="20" cy="13" r="6" />
+	<path fill="#0043EF" class="fill fill-muted-bg muted-opacity" d="M14.1,25.9 C14.5,23.5 16.5,21.5 18.9,21.1 C18.5,23.5 16.5,25.5 14.1,25.9 Z M25.9,25.9 C23.5,25.5 21.5,23.5 21.1,21.1 C23.5,21.5 25.5,23.5 25.9,25.9 Z M18.9,18.9 C16.47,18.45 14.55,16.53 14.1,14.1 C16.53,14.55 18.45,16.47 18.9,18.9 Z" />
+	<path fill="#0274F6" class="fill fill-muted-bg muted-opacity" d="M21.1,18.9 C21.55,16.47 23.47,14.55 25.9,14.1 C25.49,16.53 23.53,18.49 21.1,18.9 Z" />
+</svg>

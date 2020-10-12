@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Nexo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8,12 L8,26.1214098 C8,26.2929888 8.08906589,26.4510222 8.23244026,26.5368117 L14,30 L14,12 L8,12 Z" id="Fill-761" fill="#60BEFF"></path>
+        <path d="M26,9 L31.7675597,12.4609306 C31.9109341,12.5467202 32,12.7070112 32,12.8763326 L32,27 L26,27 L26,9 Z" id="Fill-756" fill="#1A4199"></path>
+        <polygon id="Fill-764" fill="#3CA9E5" points="14 30 20 26.5 14 23"></polygon>
+        <path d="M32,27 L26.2317441,29.9371604 C26.0883524,30.0209465 25.9123718,30.0209465 25.7689801,29.9371604 L14,23.0424443 L14,15.5 L20,12.5 L26,9 L26,23.0424443 L32,27 Z" id="Fill-759" fill="#2853C3"></path>
+        <path d="M26,15.9652455 L26,23.1828613 L8,12 L13.7682559,9.06288912 C13.9116476,8.97903696 14.0876282,8.97903696 14.2310199,9.06288912 L26,15.9652455 Z" id="Fill-750" fill="#3CA9E5"></path>
+    </g>
+</svg>

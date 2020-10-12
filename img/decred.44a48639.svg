@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>coin/dcr</title>
+    <desc>Created with Sketch.</desc>
+    <g id="coin/dcr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M27,25 L32,30 L27,30 L19,22 L24,22 C26.4698103,22 28,20.5 28,18 C28,15.5 26.4698103,14 24,14 L22,14 L18,10 L24,10 C28.5,10 32,13.6476847 32,18 C32,21.5 30.5,24 27,25 Z" id="Path" fill="#2DD8A3"></path>
+        <path d="M13,15 L8,10 L13,10 L21,18 L16,18 C13.7590748,18 12,19.790861 12,22 C12,24.209139 13.7590748,26 16,26 L18,26 L21.9227691,30 L16,30 C11.5,30 8,26.418278 8,22 C8,18.7557447 9.5,16 13,15 Z" id="Path" fill="#2970FF"></path>
+    </g>
+</svg>

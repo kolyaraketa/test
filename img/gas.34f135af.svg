@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="0%" y1="83.98907%" x2="81.1934038%" y2="40.4634916%" id="linearGradient-1">
+            <stop stop-color="#B1ED00" offset="0%"></stop>
+            <stop stop-color="#00BE00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="NEO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9.5,11.5 L22,7 L31,11 L18,16 L9.5,11.5 Z M22,25 L22,15 L31,11.5 L31,28.5 L22,25 Z M9,29 L9,12 L17.5,16.5 L17.5,33 L9,29 Z" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

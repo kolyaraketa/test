@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="abyss-gradient">
+			<stop stop-color="#8D20DE" offset="0%"></stop>
+			<stop stop-color="#40119E" offset="100%"></stop>
+		</linearGradient>
+	</defs>
+	<path fill="url(#abyss-gradient)" class="fill" d="M20,32.9364417 L9,25 L9,9 C12.33,7.66 16,7 20,7 C24,7 27.66,7.66 31,9 L31,25 L20,32.9364417 Z M14,23.5 L17,25.5 L17,21.5 L23,21.5 L23,25.5 L26,23.5 L26,13 C24,12.33 22,12 20,12 C18,12 16,12.33 14,13 L14,23.5 Z M17,15.5 C17.66,15.16 18.66,15 20,15 C21.33,15 22.33,15.16 23,15.5 L23,18.5 L17,18.5 L17,15.5 Z" />
+</svg>
